@@ -6,3 +6,4 @@ for personne in contenu.json()["people"]:
         print(personne)
     
     
+# Bleuenn Le Guennec
